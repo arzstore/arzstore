@@ -1,8 +1,17 @@
 hr {
-    width: 250px;
-    border-top: 3px solid #999;
+    border-top: 3px solid rgb(134, 96, 0);
 }
 
 section {
     min-height: 600px;
+}
+
+.background {
+    background-color: whitesmoke;
+    max-width: 950px;
+    border-radius: 10px;
+}
+
+.thumbnail {
+    width: 80px;
 }
